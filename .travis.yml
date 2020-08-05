@@ -1,5 +1,6 @@
 sudo: required
-language: generic 
+language: generic
+edge: true
 
 services:
   - docker
