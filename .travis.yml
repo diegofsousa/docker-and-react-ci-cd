@@ -16,7 +16,7 @@ deploy:
   app: "docker-and-react-ci-cd"
   env: "DockerAndReactCiCd-env"
   bucket_name: "elasticbeanstalk-us-east-2-787054017306"
-  bucket_path: "docker-and-react-ci-cd"
+  bucket_path: "docker-and-react-ci-cd-2"
   on:
     branch: master
   access_key_id: $AWS_ACCESS_KEY
